@@ -20,14 +20,12 @@ A informática passou por grandes transformações, desde os primeiros dispositi
 |-----------|--------------------------------------------|
 | 1940      | Invenção do ENIAC, o primeiro computador eletrônico. |
 | 1971      | Lançamento do microprocessador pela Intel. |
-| 1991      | Criação da World Wide Web.                 |
 | 2007      | Lançamento do iPhone.                      |
 
 ## Principais Invenções
 
 - **Ábaco**: Um dos primeiros dispositivos de cálculo.
 - **ENIAC**: O primeiro computador eletrônico.
-- **Microprocessador**: Permitindo computadores mais compactos.
 - **Internet**: Mudou a forma como nos conectamos.
 
 ## Impacto na Sociedade
@@ -38,6 +36,6 @@ A informática revolucionou a comunicação, o trabalho e a vida cotidiana. Tamb
 
 Se você tiver perguntas ou sugestões, entre em contato conosco:
 
-- **Email**: contato@evolucaoinformatica.com
+- **Email**: isaac.souza26@etec.sp.gov.br
 
 Obrigado por visitar nosso site!
