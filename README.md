@@ -19,6 +19,9 @@ A informática passou por grandes transformações, desde os primeiros dispositi
 | Ano       | Evento                                      |
 |-----------|--------------------------------------------|
 | 1940      | Invenção do ENIAC, o primeiro computador eletrônico. |
+| 1956      | Lançamento do primeiro disco rígido pela IBM. |
+| 1983      | Lançamento do primeiro sistema operacional Microsoft Windows. |
+| 2007      | Lançamento do iPhone, revolucionando a computação móvel. |
 | 1971      | Lançamento do microprocessador pela Intel. |
 | 2007      | Lançamento do iPhone.                      |
 
